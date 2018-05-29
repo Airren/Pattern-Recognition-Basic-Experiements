@@ -9,6 +9,6 @@
 * K Nearest Neighbour
 * SVM (multi kernel)
 
-Every algorithm is implemented to classfiy 2 classes. For multi-class problem, OneVsRest and OneVsOne strategies are applied respectively.
+Each algorithm is implemented to classfiy 2 classes. For multi-class problem, OneVsRest and OneVsOne strategies are applied respectively.
 
 Especially thanks to [this repository](https://github.com/lkj8389/PR-impwork)
